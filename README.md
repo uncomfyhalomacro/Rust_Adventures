@@ -2,9 +2,12 @@
 
 ## Useful links:
 
-[![Website]The Rust Programming Language - Book](https://doc.rust-lang.org/book/)
-[![Website]The Rust Programming Language - The Cargo Book](https://doc.rust-lang.org/cargo/)
+[The Rust Programming Language - Book](https://doc.rust-lang.org/book/)
+[The Rust Programming Language - The Cargo Book](https://doc.rust-lang.org/cargo/)
 
 ## Learning Rust!!
 
-- [] The Basics
+# The Rust Programming Language - Book <hr>
+
+- ✅ Chapter 1
+- ❌ Chapter 2
