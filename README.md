@@ -2,7 +2,7 @@
 
 ## Useful links:
 
-[The Rust Programming Language - Book](https://doc.rust-lang.org/book/)
+[The Rust Programming Language - Book](https://doc.rust-lang.org/book/)<br>
 [The Rust Programming Language - The Cargo Book](https://doc.rust-lang.org/cargo/)
 
 ## Learning Rust!!
