@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["rand"] = [{"text":"impl BlockRngCore for ChaChaCore","synthetic":false,"types":[]},{"text":"impl BlockRngCore for Hc128Core","synthetic":false,"types":[]},{"text":"impl BlockRngCore for IsaacCore","synthetic":false,"types":[]},{"text":"impl BlockRngCore for Isaac64Core","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
