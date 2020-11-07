@@ -1,4 +1,4 @@
-# Rust_Adventures
+# Rust_Adventures 🦀
 
 ## Useful links:
 
@@ -7,7 +7,9 @@
 
 ## Learning Rust!!
 
-# The Rust Programming Language - Book <hr>
+# 📙 The Rust Programming Language - Book <hr>
 
 - ✅ Chapter 1 - hello_world, hello_cargo
 - ✅ Chapter 2 - guessing_game
+- ❌ Chapter 3
+- ❌ Chapter 4
