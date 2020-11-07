@@ -9,5 +9,5 @@
 
 # The Rust Programming Language - Book <hr>
 
-- ✅ Chapter 1
-- ❌ Chapter 2
+- ✅ Chapter 1 - hello_world, hello_cargo
+- ✅ Chapter 2 - guessing_game
