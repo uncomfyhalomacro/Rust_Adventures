@@ -4,6 +4,7 @@
 
 [The Rust Programming Language - Book](https://doc.rust-lang.org/book/)<br>
 [The Rust Programming Language - The Cargo Book](https://doc.rust-lang.org/cargo/)
+[Are We Web Yet?](https://www.arewewebyet.org/)  --because I plan to learn about this if i have time
 
 ## Learning Rust!!
 
