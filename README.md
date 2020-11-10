@@ -11,5 +11,5 @@
 
 - ✔️ Chapter 1 - hello_world, hello_cargo
 - ✔️ Chapter 2 - guessing_game
-- ❌ Chapter 3
+- ✔️ Chapter 3 - branches, loops, variables
 - ❌ Chapter 4
