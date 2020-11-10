@@ -4,7 +4,7 @@
 
 [The Rust Programming Language - Book](https://doc.rust-lang.org/book/)<br>
 [The Rust Programming Language - The Cargo Book](https://doc.rust-lang.org/cargo/)<br>
-[Are We Web Yet?](https://www.arewewebyet.org/)
+[Are We Web Yet?](https://www.arewewebyet.org/)<br>
 [Introduction - Rust and WebAssembly](https://rustwasm.github.io/docs/book/introduction.html)
 
 ## Learning Rust!!
