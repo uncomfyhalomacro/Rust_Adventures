@@ -16,7 +16,8 @@
 
 # 📙 The Rust Programming Language - Book <hr>
 
-✔️ Chapter 1 - hello_world, hello_cargo <br>
-✔️ Chapter 2 - guessing_game <br>
-✔️ Chapter 3 - branches, loops, variables <br>
-❌ Chapter 4 <br>
+✔️ Chapter 1 **Getting Started** <br>
+✔️ Chapter 2 **Programming a Guessing Game** <br>
+✔️ Chapter 3 **Common Programming Concepts** <br>
+✔️ Chapter 4 **Understanding Ownership** <br>
+❌ Chapter 5 <br>
