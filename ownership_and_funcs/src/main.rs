@@ -1,15 +1,20 @@
 fn main() {
-    let s = String::from("hello");
+    let s1 = String::from("hello");
 
-    takes_ownership(s);
-
+    let s2 = s1.clone();
+    
+    takes_ownership(s2);
+    
     let x = 5;
+    let y = x;
 
     makes_copy(x);
+
+    println!("Not affected because integers are weird! x = {}, y = {}", x, y);
 }
 
 fn takes_ownership(some_string: String) {
-    println!("{}", some_string);
+    println!("s2: {}", some_string);
 }
 
 fn makes_copy(some_integer: i32) {
