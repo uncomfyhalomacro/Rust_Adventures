@@ -13,6 +13,7 @@
   [The Rust Programming Language - Rustdoc](https://doc.rust-lang.org/nightly/rustdoc/index.html)<br>
   [The Rust Performance Book](https://nnethercote.github.io/perf-book/)<br>
 - Extra Stuff<br>
+  [Are We Game Yet?](https://arewegameyet.rs/)
   [Are We Web Yet?](https://www.arewewebyet.org/)<br>
   [Introduction - Rust and WebAssembly](https://rustwasm.github.io/docs/book/introduction.html)<br>
   [Are We Async Yet?](https://areweasyncyet.rs/)
