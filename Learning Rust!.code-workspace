@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "Chapter 1 - Getting Started"
+		},
+		{
+			"path": "Chapter 2 - Programming a Guessing Game"
+		},
+		{
+			"path": "Chapter 3 - Common Programming Concepts"
+		},
+		{
+			"path": "Chapter 4 - Understanding Ownership"
+		},
+		{
+			"path": "Chapter 5 - Using Structs to Structure Related Data"
+		}
+	],
+	"settings": {"files.defaultLanguage": "rust",
+		"editor.fontFamily": "'JetBrainsMono Nerd Font'",
+		"editor.hover.enabled": true,
+		"editor.fontLigatures": true,
+		"editor.formatOnSave": true,
+		"editor.formatOnPaste": true,
+		"editor.formatOnType": true,
+		"editor.formatOnSaveMode": "file",
+		"editor.defaultFormatter": "matklad.rust-analyzer",
+		"rust-analyzer.cargo.allFeatures": true,}
+}
