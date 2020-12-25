@@ -1,6 +1,6 @@
 fn main() {
     let mut counter = 0;
-    
+
     let result = loop {
         counter += 1;
 
@@ -8,24 +8,24 @@ fn main() {
             break counter * 2;
         }
     };
-    
-    println!("The result is {}",result);
+
+    println!("The result is {}", result);
 
     let mut number = 3;
 
     while number != 0 {
-        println!("{}!",number);
+        println!("{}!", number);
 
         number -= 1;
     }
 
-    println!("LIFTOFF!!!", );
+    println!("LIFTOFF!!!",);
 
     let a = [10, 20, 30, 40, 50];
     let mut index = 0;
 
     while index < 5 {
-        println!("the value is {}", a[index] );
+        println!("the value is {}", a[index]);
 
         index += 1;
     }
@@ -40,5 +40,5 @@ fn main() {
         println!("{}", num);
     }
 
-    println!("LIFTOFF!", );
+    println!("LIFTOFF!",);
 }
