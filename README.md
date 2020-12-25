@@ -2,21 +2,23 @@
 
 ## Useful links:
 
-## Source: _[Rust Documentation](https://doc.rust-lang.org/nightly/)_<br>
+## Source: _[Rust Documentation](https://doc.rust-lang.org/nightly/)_
 
-- Beginner<br>
-  [The Rust Programming Language - Book](https://doc.rust-lang.org/book/)<br>
-  [The Rust Programming Language - The Cargo Book](https://doc.rust-lang.org/cargo/)<br>
-- Essentials<br>
-  [The Rust Programming Language - Editions](https://doc.rust-lang.org/nightly/edition-guide/editions/index.html)<br>
-  [The Rust Programming Language - Rustc](https://doc.rust-lang.org/nightly/rustc/index.html)<br>
-  [The Rust Programming Language - Rustdoc](https://doc.rust-lang.org/nightly/rustdoc/index.html)<br>
-  [The Rust Performance Book](https://nnethercote.github.io/perf-book/)<br>
-- Extra Stuff<br>
-  [Are We Game Yet?](https://arewegameyet.rs/)
-  [Are We Web Yet?](https://www.arewewebyet.org/)<br>
-  [Introduction - Rust and WebAssembly](https://rustwasm.github.io/docs/book/introduction.html)<br>
-  [Are We Async Yet?](https://areweasyncyet.rs/)
+
+- Beginner
+  * [The Rust Programming Language - Book](https://doc.rust-lang.org/book/)
+  * [The Rust Programming Language - The Cargo Book](https://doc.rust-lang.org/cargo/)
+- Essentials
+  * [The Rust Programming Language - Rustup](https://rust-lang.github.io/rustup/index.html)
+  * [The Rust Programming Language - Editions](https://doc.rust-lang.org/nightly/edition-guide/editions/index.html)
+  * [The Rust Programming Language - Rustc](https://doc.rust-lang.org/nightly/rustc/index.html)
+  * [The Rust Programming Language - Rustdoc](https://doc.rust-lang.org/nightly/rustdoc/index.html)
+  * [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
+- Extra Stuff
+  * [Are We Game Yet?](https://arewegameyet.rs/)
+  * [Are We Web Yet?](https://www.arewewebyet.org/)
+  * [Introduction - Rust and WebAssembly](https://rustwasm.github.io/docs/book/introduction.html)
+  * [Are We Async Yet?](https://areweasyncyet.rs/)
 
 ## Learning Rust!!
 
