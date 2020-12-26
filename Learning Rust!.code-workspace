@@ -14,6 +14,9 @@
 		},
 		{
 			"path": "Chapter 5 - Using Structs to Structure Related Data"
+		},
+		{
+			"path": "Chapter 6 - Enums and Pattern Matching"
 		}
 	],
 	"settings": {"files.defaultLanguage": "rust",
