@@ -24,9 +24,10 @@
 
 # 📙 The Rust Programming Language - Book <hr>
 
-✔️ Chapter 1 **Getting Started** <br>
-✔️ Chapter 2 **Programming a Guessing Game** <br>
-✔️ Chapter 3 **Common Programming Concepts** <br>
-✔️ Chapter 4 **Understanding Ownership** <br>
-✔️ Chapter 5 **Using Structs to Structure Related Data**<br>
-❌ Chapter 6 <br>
+- [x] Chapter 1 **Getting Started** 
+- [x] Chapter 2 **Programming a Guessing Game** 
+- [x] Chapter 3 **Common Programming Concepts**
+- [x] Chapter 4 **Understanding Ownership**
+- [x] Chapter 5 **Using Structs to Structure Related Data**
+- [x] Chapter 6 **Enums and Pattern Matching**
+- [ ] Chapter 7
