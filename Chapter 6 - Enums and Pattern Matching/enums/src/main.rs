@@ -1,4 +1,4 @@
-use std::{io, println};
+use std::io;
 
 use io::Result;
 
