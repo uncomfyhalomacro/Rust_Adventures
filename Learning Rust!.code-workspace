@@ -28,5 +28,11 @@
 		"editor.formatOnType": true,
 		"editor.formatOnSaveMode": "file",
 		"editor.defaultFormatter": "matklad.rust-analyzer",
-		"rust-analyzer.cargo.allFeatures": true,}
+		"rust-analyzer.cargo.allFeatures": true,
+	},
+	"extensions": {
+		"recommendations": [
+			"matklad.rust-analyzer"
+		]
+	}
 }
