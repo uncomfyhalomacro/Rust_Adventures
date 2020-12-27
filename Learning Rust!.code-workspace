@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "Chapter 6 - Enums and Pattern Matching"
+		},
+		{
+			"path": "Chapter 7 - Managing Growing Projects with Packages, Crates, and Modules"
 		}
 	],
 	"settings": {"files.defaultLanguage": "rust",
