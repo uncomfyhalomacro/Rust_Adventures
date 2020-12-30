@@ -23,7 +23,7 @@
 		}
 	],
 	"settings": {"files.defaultLanguage": "rust",
-		"editor.fontFamily": "'JetBrainsMono Nerd Font'",
+		"editor.fontFamily": "'FantasqueSansMono Nerd Font','JetBrainsMono Nerd Font'",
 		"editor.hover.enabled": true,
 		"editor.fontLigatures": true,
 		"editor.formatOnSave": true,
