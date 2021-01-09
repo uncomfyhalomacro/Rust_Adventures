@@ -1,41 +1,42 @@
 {
-	"folders": [
-		{
-			"path": "Chapter 1 - Getting Started"
-		},
-		{
-			"path": "Chapter 2 - Programming a Guessing Game"
-		},
-		{
-			"path": "Chapter 3 - Common Programming Concepts"
-		},
-		{
-			"path": "Chapter 4 - Understanding Ownership"
-		},
-		{
-			"path": "Chapter 5 - Using Structs to Structure Related Data"
-		},
-		{
-			"path": "Chapter 6 - Enums and Pattern Matching"
-		},
-		{
-			"path": "Chapter 7 - Managing Growing Projects with Packages, Crates, and Modules"
-		}
-	],
-	"settings": {"files.defaultLanguage": "rust",
-		"editor.fontFamily": "'FantasqueSansMono Nerd Font','JetBrainsMono Nerd Font'",
-		"editor.hover.enabled": true,
-		"editor.fontLigatures": true,
-		"editor.formatOnSave": true,
-		"editor.formatOnPaste": true,
-		"editor.formatOnType": true,
-		"editor.formatOnSaveMode": "file",
-		"editor.defaultFormatter": "matklad.rust-analyzer",
-		"rust-analyzer.cargo.allFeatures": true,
-	},
-	"extensions": {
-		"recommendations": [
-			"matklad.rust-analyzer"
-		]
-	}
+  "folders": [
+    {
+      "path": "Chapter 1 - Getting Started"
+    },
+    {
+      "path": "Chapter 2 - Programming a Guessing Game"
+    },
+    {
+      "path": "Chapter 3 - Common Programming Concepts"
+    },
+    {
+      "path": "Chapter 4 - Understanding Ownership"
+    },
+    {
+      "path": "Chapter 5 - Using Structs to Structure Related Data"
+    },
+    {
+      "path": "Chapter 6 - Enums and Pattern Matching"
+    },
+    {
+      "path": "Chapter 7 - Managing Growing Projects with Packages, Crates, and Modules"
+    }
+  ],
+  "settings": {
+    "files.defaultLanguage": "rust",
+    "editor.fontFamily": "'FantasqueSansMono Nerd Font','JetBrainsMono Nerd Font'",
+    "editor.hover.enabled": true,
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.defaultFormatter": "matklad.rust-analyzer",
+    "rust-analyzer.cargo.allFeatures": true,
+    "rust-analyzer.server.path": "/usr/bin/rust-analyzer",
+    "rust-analyzer.updates.channel": "nightly"
+  },
+  "extensions": {
+    "recommendations": ["matklad.rust-analyzer"]
+  }
 }
