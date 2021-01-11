@@ -34,7 +34,10 @@
     "editor.defaultFormatter": "matklad.rust-analyzer",
     "rust-analyzer.cargo.allFeatures": true,
     "rust-analyzer.server.path": "/usr/bin/rust-analyzer",
-    "rust-analyzer.updates.channel": "nightly"
+    "rust-analyzer.updates.channel": "nightly",
+    "lldb.displayFormat": "auto",
+    "lldb.showDisassembly": "auto",
+    "lldb.dereferencePointers": false
   },
   "extensions": {
     "recommendations": ["matklad.rust-analyzer"]
