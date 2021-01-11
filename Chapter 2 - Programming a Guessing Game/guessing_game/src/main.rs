@@ -1,7 +1,8 @@
 use rand::Rng;
-use std::cmp::Ordering;
-use std::io;
+// use std::cmp::Ordering;
+// use std::io;
 
+use std::{cmp::Ordering, io}; // Based on https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html#using-nested-paths-to-clean-up-large-use-lists
 fn main() {
     println!("Guess the number!");
 
