@@ -30,4 +30,5 @@
 - [x] Chapter 4 **Understanding Ownership**
 - [x] Chapter 5 **Using Structs to Structure Related Data**
 - [x] Chapter 6 **Enums and Pattern Matching**
-- [ ] Chapter 7
+- [x] Chapter 7 **Managing Growing Projects with Packages, Crates, and Modules**
+- [ ] Chapter 8 **Common Collections**
