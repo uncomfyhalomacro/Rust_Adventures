@@ -6,7 +6,7 @@ use std::{cmp::Ordering, io}; // Based on https://doc.rust-lang.org/book/ch07-04
 fn main() {
     println!("Guess the number!");
 
-    let secret_number = rand::thread_rng().gen_range(1, 101);
+    let secret_number = rand::thread_rng().gen_range(1..101);
 
     loop {
         println!("Please input your guess.");
