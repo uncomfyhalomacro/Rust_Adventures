@@ -1,0 +1,16 @@
+[workspace]
+members = [
+    "Chapter 1 - Getting Started/hello_cargo",  # Not including no cargo.toml in folder hello_world
+    "Chapter 2 - Programming a Guessing Game/guessing_game",
+    "Chapter 3 - Common Programming Concepts/branches",
+    "Chapter 3 - Common Programming Concepts/calculate_length",
+    "Chapter 3 - Common Programming Concepts/loops",
+    "Chapter 3 - Common Programming Concepts/scopes",
+    "Chapter 3 - Common Programming Concepts/variables",
+    "Chapter 4 - Understanding Ownership/ownership_and_funcs",
+    "Chapter 4 - Understanding Ownership/slice",
+    "Chapter 5 - Using Structs to Structure Related Data/field",
+    "Chapter 5 - Using Structs to Structure Related Data/rectangles",
+    "Chapter 7 - Managing Growing Projects with Packages, Crates, and Modules/my-project",
+    "Chapter 7 - Managing Growing Projects with Packages, Crates, and Modules/restaurant"
+]
