@@ -24,7 +24,6 @@ fn main() {
     let a = [1, 2, 3, 4, 5];
     let slicei32 = &a[1..3];
     println!("Array slice result: {:?}", slicei32); // or to prettify -> println!("Array slice result: {:#?}", slicei32);
-
 }
 
 fn first_word(s: &str) -> &str {
@@ -32,7 +31,7 @@ fn first_word(s: &str) -> &str {
 
     for (i, &item) in bytes.iter().enumerate() {
         if item == b' ' {
-        return &s[..i]; // or return &s[0..i];
+            return &s[..i]; // or return &s[0..i];
         }
     }
     &s[..]
