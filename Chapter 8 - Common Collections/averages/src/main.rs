@@ -17,12 +17,13 @@ fn main() {
         };
         arr.push(integers);
     }
+    let precision = 3;
 
     let m = mean(&arr);
     let z = median(&mut arr);
     let (msg, s) = mode(&arr);
-    println!("Mean: {:.2}", m);
-    println!("Median: {:.2}", z);
+    println!("Mean: {:.1$}", m, precision);
+    println!("Median: {:.1$}", z, precision);
     println!("Mode:\nIn key-pairs: {{value: frequency}}");
     println!("{} {:?}", msg, s);
 }
