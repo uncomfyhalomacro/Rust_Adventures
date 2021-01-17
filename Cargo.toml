@@ -13,7 +13,8 @@ members = [
     "Chapter 5 - Using Structs to Structure Related Data/rectangles",
     "Chapter 7 - Managing Growing Projects with Packages, Crates, and Modules/my-project",
     "Chapter 7 - Managing Growing Projects with Packages, Crates, and Modules/restaurant",
-    "Chapter 8 - Common Collections/collections/",
+    "Chapter 8 - Common Collections/collections",
     "Chapter 8 - Common Collections/strings",
-    "Chapter 8 - Common Collections/hashmaps"
+    "Chapter 8 - Common Collections/hashmaps",
+    "Chapter 8 - Common Collections/averages",
 ]
