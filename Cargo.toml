@@ -17,4 +17,5 @@ members = [
     "Chapter 8 - Common Collections/strings",
     "Chapter 8 - Common Collections/hashmaps",
     "Chapter 8 - Common Collections/averages",
+    "Chapter 8 - Common Collections/pig-latin"
 ]
