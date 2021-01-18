@@ -17,5 +17,8 @@ members = [
     "Chapter 8 - Common Collections/strings",
     "Chapter 8 - Common Collections/hashmaps",
     "Chapter 8 - Common Collections/averages",
-    "Chapter 8 - Common Collections/pig-latin"
-]
+    "Chapter 8 - Common Collections/pig-latin",
+    "Chapter 9 - Error Handling/error-handling",
+    "Chapter 9 - Error Handling/closures",
+    "Chapter 9 - Error Handling/guessing_gamev2"
+    ]
