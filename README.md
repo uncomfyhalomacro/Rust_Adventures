@@ -35,4 +35,4 @@
 - [x] Chapter 6 **Enums and Pattern Matching**
 - [x] Chapter 7 **Managing Growing Projects with Packages, Crates, and Modules**
 - [x] Chapter 8 **Common Collections**
-- [ ] Chapter 9 **Error Handling**
+- [x] Chapter 9 **Error Handling**
