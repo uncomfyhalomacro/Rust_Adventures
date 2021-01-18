@@ -15,6 +15,7 @@
   - [The Rust Programming Language - Rustdoc](https://doc.rust-lang.org/nightly/rustdoc/index.html)
   - [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
   - [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
+  - [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/README.html)
 - Extra Stuff
   - [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
   - [Are We Game Yet?](https://arewegameyet.rs/)
