@@ -20,5 +20,11 @@ members = [
     "Chapter 8 - Common Collections/pig-latin",
     "Chapter 9 - Error Handling/error-handling",
     "Chapter 9 - Error Handling/closures",
-    "Chapter 9 - Error Handling/guessing_gamev2"
+    "Chapter 9 - Error Handling/guessing_gamev2",
+    "Chapter 10 - Generic Types, Traits, and Lifetimes/largest",
+    "Chapter 10 - Generic Types, Traits, and Lifetimes/generic-largest",
+    "Chapter 10 - Generic Types, Traits, and Lifetimes/generic-struct",
+    "Chapter 10 - Generic Types, Traits, and Lifetimes/generic-enum",
+    "Chapter 10 - Generic Types, Traits, and Lifetimes/generics",
+    "Chapter 10 - Generic Types, Traits, and Lifetimes/mixup"
     ]

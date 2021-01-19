@@ -1,0 +1,9 @@
+[package]
+name = "mixup"
+version = "0.1.0"
+authors = ["Renegan Ronin <66054069+ReneganRonin@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
