@@ -37,3 +37,4 @@
 - [x] Chapter 7 **Managing Growing Projects with Packages, Crates, and Modules**
 - [x] Chapter 8 **Common Collections**
 - [x] Chapter 9 **Error Handling**
+= [ ] Chapter 10 - **Generic Types, Traits, and Lifetimes**
