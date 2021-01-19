@@ -10,12 +10,12 @@ fn main() {
 
     loop {
         println!("Please input your guess.");
-        // let mut guess = String::new();
+        let mut guess = String::new();
 
-        // io::stdin()
-        //     .read_line(&mut guess)
-        //     .expect("Failed to read line");
-        let guess = String::from("-34"); // this will panic because Guess does not allow it
+        io::stdin()
+            .read_line(&mut guess)
+            .expect("Failed to read line");
+        // let guess = String::from("-34"); // this will panic because Guess does not allow it
 
         let guess: i32 = match guess.trim().parse() {
             Ok(num) => Guess::new(num).value, // this checks the value if it is out of bounds
@@ -47,7 +47,7 @@ pub struct Guess {
 
 impl Guess {
     pub fn new(value: i32) -> Guess {
-        if value < 1 || value > 100 {
+        if (1..101).contains(&value) {
             panic!("Guess value must be between 1 and 100, got {}", value);
         }
 

@@ -1,3 +1,5 @@
+use std::println;
+
 fn main() {
     let mut v: Vec<i32> = Vec::new();
     let c = vec![1, 2, 3];
@@ -22,7 +24,7 @@ fn main() {
 
     // let does_not_exist = &v[100]; // panics
     let does_not_exist = v.get(100); // does not panic
-
+    println!("{:?}", does_not_exist);
     for i in &v {
         println!("{}", i);
     }
