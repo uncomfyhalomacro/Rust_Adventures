@@ -26,5 +26,8 @@ members = [
     "Chapter 10 - Generic Types, Traits, and Lifetimes/generic-struct",
     "Chapter 10 - Generic Types, Traits, and Lifetimes/generic-enum",
     "Chapter 10 - Generic Types, Traits, and Lifetimes/generics",
-    "Chapter 10 - Generic Types, Traits, and Lifetimes/mixup"
+    "Chapter 10 - Generic Types, Traits, and Lifetimes/mixup",
+    "Chapter 10 - Generic Types, Traits, and Lifetimes/aggregator",
+    "Chapter 10 - Generic Types, Traits, and Lifetimes/lifetimes",
+    "Chapter 10 - Generic Types, Traits, and Lifetimes/all-in-one"
     ]

@@ -1,5 +1,7 @@
-fn largest<T>(list: &[T]) -> &T {
-    let mut largest = list[0];
+use std::cmp::PartialOrd;
+
+fn largest<T: PartialOrd>(list: &[T]) -> &T {
+    let mut largest = &list[0];
 
     for item in list {
         if item > largest {
@@ -10,7 +12,7 @@ fn largest<T>(list: &[T]) -> &T {
 }
 
 fn main() {
-    let number_list = v![34, 50, 25, 100, 65];
+    let number_list = vec![34, 50, 25, 100, 65];
     let result = largest(&number_list);
     println!("The largest number is {}", result);
 

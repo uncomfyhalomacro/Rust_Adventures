@@ -14,6 +14,7 @@
   - [The Rust Programming Language - Rustc](https://doc.rust-lang.org/nightly/rustc/index.html)
   - [The Rust Programming Language - Rustdoc](https://doc.rust-lang.org/nightly/rustdoc/index.html)
   - [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
+  - [The Rust Reference](https://doc.rust-lang.org/reference/)
   - [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
   - [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/README.html)
   - [Compiler Explorer](https://rust.godbolt.org/)
@@ -37,4 +38,4 @@
 - [x] Chapter 7 **Managing Growing Projects with Packages, Crates, and Modules**
 - [x] Chapter 8 **Common Collections**
 - [x] Chapter 9 **Error Handling**
-= [ ] Chapter 10 - **Generic Types, Traits, and Lifetimes**
+- [x] Chapter 10 - **Generic Types, Traits, and Lifetimes**
