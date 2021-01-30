@@ -29,5 +29,7 @@ members = [
     "Chapter 10 - Generic Types, Traits, and Lifetimes/mixup",
     "Chapter 10 - Generic Types, Traits, and Lifetimes/aggregator",
     "Chapter 10 - Generic Types, Traits, and Lifetimes/lifetimes",
-    "Chapter 10 - Generic Types, Traits, and Lifetimes/all-in-one"
-    ]
+    "Chapter 10 - Generic Types, Traits, and Lifetimes/all-in-one",
+    "Chapter 11 - Writing Automated Tests/adder",
+    "Chapter 11 - Writing Automated Tests/greeting",
+]
