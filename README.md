@@ -39,4 +39,4 @@
 - [x] Chapter 8 **Common Collections**
 - [x] Chapter 9 **Error Handling**
 - [x] Chapter 10 - **Generic Types, Traits, and Lifetimes**
-- [ ] Chapter 11 - **Writing Automated Tests**
+- [x] Chapter 11 - **Writing Automated Tests**
