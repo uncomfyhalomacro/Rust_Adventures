@@ -32,4 +32,5 @@ members = [
     "Chapter 10 - Generic Types, Traits, and Lifetimes/all-in-one",
     "Chapter 11 - Writing Automated Tests/adder",
     "Chapter 11 - Writing Automated Tests/greeting",
+    "Chapter 12 - An IO Project: Building a Command Line Program/minigrep"
 ]
