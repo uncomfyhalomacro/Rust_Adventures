@@ -38,7 +38,7 @@
 - [x] Chapter 7 **Managing Growing Projects with Packages, Crates, and Modules**
 - [x] Chapter 8 **Common Collections**
 - [x] Chapter 9 **Error Handling**
-- [x] Chapter 10 - **Generic Types, Traits, and Lifetimes**
-- [x] Chapter 11 - **Writing Automated Tests**
-- [x] Chapter 12 - **An IO Project: Building a Command Line Program**
-- [ ] Chapter 13 - **Functional Language Features: Iterators and Closures**
+- [x] Chapter 10 **Generic Types, Traits, and Lifetimes**
+- [x] Chapter 11 **Writing Automated Tests**
+- [x] Chapter 12 **An IO Project: Building a Command Line Program**
+- [ ] Chapter 13 **Functional Language Features: Iterators and Closures**
