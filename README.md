@@ -40,3 +40,5 @@
 - [x] Chapter 9 **Error Handling**
 - [x] Chapter 10 - **Generic Types, Traits, and Lifetimes**
 - [x] Chapter 11 - **Writing Automated Tests**
+- [x] Chapter 12 - **An IO Project: Building a Command Line Program**
+- [ ] Chapter 13 - **Functional Language Features: Iterators and Closures**
